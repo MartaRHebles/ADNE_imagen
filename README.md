@@ -1,4 +1,9 @@
 # ADNE_imagen
+
+Marta Rodríguez hebles
+Maria Valvanera Gil de Biedma
+Blanca sayas Ladaga
+
 # Detección de Anomalías en la Piel
 
 Este proyecto implementa un sistema de clasificación automática de tres tipos de anomalías cutáneas: **melanoma**, **nevus** y **queratosis seborreica**. Se incluye un análisis exploratorio de datos (EDA), una fase de Machine Learning clásico con extracción de características y SVM, y dos modelos de Deep Learning: un **CNN entrenado desde cero** y un **ResNet-50 preentrenado**. Además, incorpora un pequeño módulo de **Image-to-Text** que genera una breve descripción de la clase predicha.
