@@ -1,8 +1,8 @@
 # ADNE_imagen
 
-Marta Rodríguez hebles
-Maria Valvanera Gil de Biedma
-Blanca sayas Ladaga
+- Marta Rodríguez hebles
+- Maria Valvanera Gil de Biedma
+- Blanca Sayas Ladaga
 
 # Detección de Anomalías en la Piel
 
