@@ -1,6 +1,6 @@
 # ADNE_imagen
 
-- Marta Rodríguez hebles
+- Marta Rodríguez Hebles
 - Maria Valvanera Gil de Biedma
 - Blanca Sayas Ladaga
 
